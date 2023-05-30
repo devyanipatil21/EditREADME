@@ -21,3 +21,32 @@
 
 
 ########css
+.container {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+  
+  textarea {
+    width: 400px;
+    height: 200px;
+    margin: 20px auto;
+    resize: none;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  #word-count {
+    margin-top: 20px;
+    font-size: 18px;
+    text-align: left;
+  }
+  
+  
+  ###########js
